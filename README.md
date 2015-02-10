@@ -15,7 +15,7 @@ Greek language for phpBB 3.1.x
 
 https://github.com/dimitrisXri/phpBB_3.1.x/blob/master/language/el/AUTHORS.md
 
-##### Κατάσταση: 09/02/2015
+##### Κατάσταση: 10/02/2015
 ----
 * Όλοι οι όροι έχουν μεταφραστεί στην ελληνική γλώσσα
 * Πλήρης νέα μετάφραση σε σχέση με την έκδοση phpBB 3.0.x
@@ -23,6 +23,9 @@ https://github.com/dimitrisXri/phpBB_3.1.x/blob/master/language/el/AUTHORS.md
 * Διορθώθηκαν διάφορα λάθη σε help_bbcode.php
 * Διορθώθηκαν διάφορα λάθη σε help_faq.php file
 * Διορθώθηκαν διάφορα λάθη σε install.php file
+* Αλλάχτηκε «βασική ομάδα» σε «προεπιλεγμένη ομάδα»
+* Διάφορες αλλαγές και νέος ορθογραφικός έλεγχος
+
 
 ##### Λάθη
 ----
