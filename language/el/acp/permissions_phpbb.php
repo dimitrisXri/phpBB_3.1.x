@@ -74,7 +74,7 @@ $lang = array_merge($lang, array(
 	'ACL_U_CHGPASSWD'	=> 'Μπορεί να αλλάξει κωδικό,',
 	'ACL_U_CHGEMAIL'	=> 'Μπορεί να αλλάξει διεύθυνση ηλεκτρονικού ταχυδρομείου',
 	'ACL_U_CHGAVATAR'	=> 'Μπορεί να αλλάξει άβαταρ',
-	'ACL_U_CHGGRP'		=> 'Μπορεί να αλλάξει ομάδα προεπιλογής',
+	'ACL_U_CHGGRP'		=> 'Μπορεί να αλλάξει προεπιλεγμένη ομάδα',
 	'ACL_U_CHGPROFILEINFO'	=> 'Μπορεί να αλλάξει τις πληροφορίες του πεδίου προφίλ',
 
 	'ACL_U_ATTACH'		=> 'Μπορεί να προσθέσει συνημμένα αρχεία',
@@ -159,8 +159,8 @@ $lang = array_merge($lang, array(
 	'ACL_M_MERGE'	=> 'Μπορεί να συγχωνεύσει θέματα',
 
 	'ACL_M_INFO'	=> 'Μπορεί να βλέπει λεπτομέρειες θεμάτων,',
-	'ACL_M_WARN'	=> 'Μπορεί να προειδοποιήσει<br /><em>Αυτή η ρύθμιση ορίζεται μόνο συνολικά. Δεν είναι με βάση την Δ. Συζήτηση.</em>', // This moderator setting is only global (and not local)
-	'ACL_M_BAN'		=> 'Μπορεί να διαχειριστεί αποκλεισμούς<br /><em>Αυτή η ρύθμιση ορίζεται μόνο συνολικά. Δεν είναι με βάση την Δ. Συζήτηση.</em>', // This moderator setting is only global (and not local)
+	'ACL_M_WARN'	=> 'Μπορεί να προειδοποιήσει<br /><em>Αυτή η ρύθμιση ανατίθεται μόνο συνολικά. Δεν είναι με βάση την Δ. Συζήτηση.</em>', // This moderator setting is only global (and not local)
+	'ACL_M_BAN'		=> 'Μπορεί να διαχειριστεί αποκλεισμούς<br /><em>Αυτή η ρύθμιση ανατίθεται μόνο συνολικά. Δεν είναι με βάση την Δ. Συζήτηση.</em>', // This moderator setting is only global (and not local)
 ));
 
 // Admin Permissions
