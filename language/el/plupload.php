@@ -10,7 +10,7 @@
 * For full copyright and license information, please see
 * the docs/CREDITS.txt file.
 *
-* Ελληνική μετάφραση από την ομάδα του phpbbgr.com:
+* Ελληνική μετάφραση από την ομάδα του phpbbgr.com (dimitris):
 * (http://phpbbgr.com/team/)
 *
 */

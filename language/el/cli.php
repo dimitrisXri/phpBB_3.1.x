@@ -9,7 +9,7 @@
 * For full copyright and license information, please see
 * the docs/CREDITS.txt file.
 *
-* Ελληνική μετάφραση από την ομάδα του phpbbgr.com:
+* Ελληνική μετάφραση από την ομάδα του phpbbgr.com (dimitris):
 * (http://phpbbgr.com/team/)
 *
 */
@@ -80,5 +80,5 @@ $lang = array_merge($lang, array(
 	'CLI_EXTENSIONS_DISABLED'			=> 'Απενεργοποιημένο',
 	'CLI_EXTENSIONS_ENABLED'			=> 'Ενεργοποιημένο',
 
-	'CLI_FIXUP_RECALCULATE_EMAIL_HASH_SUCCESS'	=> 'Επιτυχής επαναυπολογισμός όλων των hashes ηλεκτρονικών ταχυδρομείων.',
+	'CLI_FIXUP_RECALCULATE_EMAIL_HASH_SUCCESS'	=> 'Επιτυχής επανυπολογισμός όλων των hashes ηλεκτρονικών ταχυδρομείων.',
 ));

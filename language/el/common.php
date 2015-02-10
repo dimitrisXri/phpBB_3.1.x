@@ -9,7 +9,7 @@
 * For full copyright and license information, please see
 * the docs/CREDITS.txt file.
 *
-* Ελληνική μετάφραση από την ομάδα του phpbbgr.com:
+* Ελληνική μετάφραση από την ομάδα του phpbbgr.com (dimitris):
 * (http://phpbbgr.com/team/)
 *
 */
@@ -122,7 +122,7 @@ $lang = array_merge($lang, array(
 	'BACK_TO_PREV'			=> 'Επιστροφή στην προηγούμενη σελίδα',
 	'BAN_TRIGGERED_BY_EMAIL'=> 'Μια απαγόρευση έχει εκδοθεί στην διεύθυνση ηλεκτρονικού ταχυδρομείου σας.',
 	'BAN_TRIGGERED_BY_IP'	=> 'Μια απαγόρευση έχει εκδοθεί στην διεύθυνση IP σας.',
-	'BAN_TRIGGERED_BY_USER'	=> 'Μια απαγόρευση έχει εκδοθεί στo όνομα μέλους σας.',
+	'BAN_TRIGGERED_BY_USER'	=> 'Μια απαγόρευση έχει εκδοθεί στο όνομα μέλους σας.',
 	'BBCODE_GUIDE'			=> 'BBCode οδηγίες',
 	'BCC'					=> 'BCC',
 	'BIRTHDAYS'				=> 'Γενέθλια',
@@ -683,7 +683,7 @@ $lang = array_merge($lang, array(
 	'SELECT'					=> 'Επιλογή',
 	'SELECT_ALL_CODE'			=> 'Επιλογή όλων',
 	'SELECT_DESTINATION_FORUM'	=> 'Παρακαλώ επιλέξτε την Δ. Συζήτηση προορισμού',
-	'SELECT_FORUM'				=> 'Επιλέγξτε μια Δ. Συζήτηση',
+	'SELECT_FORUM'				=> 'Επιλέξτε μια Δ. Συζήτηση',
 	'SEND_EMAIL'				=> 'Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου',				// Used for submit buttons
 	'SEND_EMAIL_USER'			=> 'Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου προς %s',
 	'SEND_PRIVATE_MESSAGE'		=> 'Αποστολή προσωπικού μηνύματος',
@@ -744,7 +744,7 @@ $lang = array_merge($lang, array(
 	'TOO_SHORT_CONFIRM_CODE'		=> 'Ο κωδικός επιβεβαίωσης που εισάγατε είναι πολύ μικρός.',
 	'TOO_SHORT_DATEFORMAT'			=> 'Η μορφή ημερομηνίας που εισάγατε είναι πολύ μικρή.',
 	'TOO_SHORT_JABBER'				=> 'Το όνομα λογαριασμού Jabber που εισάγατε είναι πολύ μικρό.',
-	'TOO_SHORT_NEW_PASSWORD'		=> 'Ο κωδικός προσβασης που εισάγατε είναι πολύ μικρός.',
+	'TOO_SHORT_NEW_PASSWORD'		=> 'Ο κωδικός πρόσβασης που εισάγατε είναι πολύ μικρός.',
 	'TOO_SHORT_PASSWORD_CONFIRM'	=> 'Η επιβεβαίωση του κωδικού πρόσβασης που εισάγατε είναι πολύ μικρή.',
 	'TOO_SHORT_USER_PASSWORD'		=> 'Ο κωδικός πρόσβασης που εισάγατε είναι πολύ μικρός.',
 	'TOO_SHORT_USERNAME'			=> 'Το όνομα μέλους που εισάγατε είναι πολύ μικρό.',

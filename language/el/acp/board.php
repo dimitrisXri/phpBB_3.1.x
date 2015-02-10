@@ -9,7 +9,7 @@
 * For full copyright and license information, please see
 * the docs/CREDITS.txt file.
 *
-* Ελληνική μετάφραση από την ομάδα του phpbbgr.com:
+* Ελληνική μετάφραση από την ομάδα του phpbbgr.com (dimitris):
 * (http://phpbbgr.com/team/)
 *
 */
@@ -306,7 +306,7 @@ $lang = array_merge($lang, array(
 // Visual Confirmation Settings
 $lang = array_merge($lang, array(
 	'ACP_VC_SETTINGS_EXPLAIN'				=> 'Εδώ μπορείτε να επιλέξετε και να διαμορφώσετε πρόσθετες λειτουργίες, οι οποίες έχουν σχεδιαστεί για να αποτρέπουν τις αυτοματοποιημένες φόρμες υποβολών για αυτόματη αποστολή ενοχλητικών μηνυμάτων. Αυτές οι πρόσθετες λειτουργίες συνήθως λειτουργούν προκαλώντας το μέλος με μια <em>CAPTCHA</em>, δοκιμασία η οποία είναι σχεδιασμένη να είναι δύσκολη για τους υπολογιστές να επιλύσουν.',
-	'ACP_VC_EXT_GET_MORE'					=> 'Για περισσότερες (και ενδεχομένως καλύτερες) anti-spam πρόσθετες λειτουργίες, επισκεφθείτε <a href="https://www.phpbb.com/go/anti-spam-ext"><strong>phpBB.com Extensions Database</strong></a>. Για περισσότερες πληροφορίες για πρόληψη ανεπιθύμηττων μηνυμάτων στην Δ. Συζήτησή σας, επισκεφθείτε <a href="https://www.phpbb.com/go/anti-spam"><strong>phpBB.com Knowledge Base</strong></a>.',
+	'ACP_VC_EXT_GET_MORE'					=> 'Για περισσότερες (και ενδεχομένως καλύτερες) anti-spam πρόσθετες λειτουργίες, επισκεφθείτε <a href="https://www.phpbb.com/go/anti-spam-ext"><strong>phpBB.com Extensions Database</strong></a>. Για περισσότερες πληροφορίες για πρόληψη ανεπιθύμητων μηνυμάτων στην Δ. Συζήτησή σας, επισκεφθείτε <a href="https://www.phpbb.com/go/anti-spam"><strong>phpBB.com Knowledge Base</strong></a>.',
 	'AVAILABLE_CAPTCHAS'					=> 'Διαθέσιμες πρόσθετες λειτουργίες',
 	'CAPTCHA_UNAVAILABLE'					=> 'Το πρόσθετο δεν μπορεί να επιλεγεί καθώς οι απαιτήσεις του δεν πληρούνται.',
 	'CAPTCHA_GD'							=> 'Εικόνα GD',
