@@ -38,7 +38,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'CLI_CONFIG_CANNOT_CACHED'			=> 'Ορίστε αυτή την επιλογή αν η επιλογή ρύθμισης αλλάζει πολύ συχνά για να γίνεται προσωρινή αποθήκευση αποτελεσματικά.',
+	'CLI_CONFIG_CANNOT_CACHED'			=> 'Ορίστε αυτήν την επιλογή αν η επιλογή ρύθμισης αλλάζει πολύ συχνά για να γίνεται προσωρινή αποθήκευση αποτελεσματικά.',
 	'CLI_CONFIG_CURRENT'				=> 'Τρέχουσα τιμή ρύθμισης, χρησιμοποιήστε 0 και 1 για να καθορίσετε λογικές τιμές',
 	'CLI_CONFIG_DELETE_SUCCESS'			=> 'Επιτυχής διαγραφή της ρύθμισης %s.',
 	'CLI_CONFIG_NEW'					=> 'Νέα τιμή ρύθμισης, χρησιμοποιήστε 0 και 1 για να καθορίσετε λογικές τιμές',
@@ -56,16 +56,16 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_DB_MIGRATE'				=> 'Ενημερώνει τη βάση δεδομένων εφαρμόζοντας ενσωματώσεις.',
 	'CLI_DESCRIPTION_DELETE_CONFIG'				=> 'Διαγράφει μια επιλογή ρύθμισης',
 	'CLI_DESCRIPTION_DISABLE_EXTENSION'			=> 'Απενεργοποιεί τη συγκεκριμένη επέκταση.',
-	'CLI_DESCRIPTION_ENABLE_EXTENSION'			=> 'Ενεργοποιεί την συγκεκριμένη επέκταση.',
+	'CLI_DESCRIPTION_ENABLE_EXTENSION'			=> 'Ενεργοποιεί τη συγκεκριμένη επέκταση.',
 	'CLI_DESCRIPTION_FIND_MIGRATIONS'			=> 'Βρίσκει ενσωματώσεις που δεν ήταν εξαρτημένες.',
 	'CLI_DESCRIPTION_GET_CONFIG'				=> 'Παίρνει μια τιμή επιλογής ρύθμισης',
 	'CLI_DESCRIPTION_INCREMENT_CONFIG'			=> 'Προσαυξάνει μια τιμή επιλογής ρύθμισης',
 	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'Απαριθμεί όλες τις επεκτάσεις στη βάση δεδομένων και στο σύστημα αρχείων.',
 	'CLI_DESCRIPTION_OPTION_SAFE_MODE'			=> 'Εκτέλεση σε ασφαλή λειτουργία (χωρίς επεκτάσεις).',
 	'CLI_DESCRIPTION_OPTION_SHELL'				=> 'Εκκίνηση του κελύφους.',
-	'CLI_DESCRIPTION_PURGE_EXTENSION'			=> 'Εκκαθαρίζει την συγκεκριμένη επέκταση.',
+	'CLI_DESCRIPTION_PURGE_EXTENSION'			=> 'Εκκαθαρίζει τη συγκεκριμένη επέκταση.',
 	'CLI_DESCRIPTION_RECALCULATE_EMAIL_HASH'	=> 'Επανυπολογίζει τη στήλη user_email_hash του πίνακα των μελών.',
-	'CLI_DESCRIPTION_SET_ATOMIC_CONFIG'			=> 'Καθορίζει μια τιμή επιλογής ρύθμισης μόνο εάν η παλιά ταιριάζει με την τρέχουσα τιμή',
+	'CLI_DESCRIPTION_SET_ATOMIC_CONFIG'			=> 'Καθορίζει μια τιμή επιλογής ρύθμισης μόνον εάν η παλιά ταιριάζει με την τρέχουσα τιμή',
 	'CLI_DESCRIPTION_SET_CONFIG'				=> 'Καθορίζει μια τιμή επιλογής ρύθμισης',
 
 	'CLI_EXTENSION_DISABLE_FAILURE'		=> 'Δεν ήταν δυνατή η απενεργοποίηση της επέκτασης %s',
