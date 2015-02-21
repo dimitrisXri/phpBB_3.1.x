@@ -48,3 +48,6 @@ https://github.com/dimitrisXri/phpBB_3.1.x/blob/master/language/el/AUTHORS.md
 ### Άδεια χρήσης
 ------
 Αυτά τα αρχεία γλώσσας για το phpBB 3.1.x υπόκεινται στην άδεια χρήσης GPL (δείτε LICENSE).
+
+
+[![Build Status](https://travis-ci.org/dimitrisXri/phpBB_3.1.x.svg?branch=master)](https://travis-ci.org/dimitrisXri/phpBB_3.1.x)
