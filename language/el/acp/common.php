@@ -498,7 +498,7 @@ $lang = array_merge($lang, array(
 	'LOG_ADMIN_AUTH_FAIL'		=> '<strong>Αποτυχημένη προσπάθεια σύνδεσης Διαχειριστή</strong>',
 	'LOG_ADMIN_AUTH_SUCCESS'	=> '<strong>Επιτυχημένη σύνδεση Διαχειριστή</strong>',
 
-	'LOG_ATTACHMENTS_DELETED'	=> '<strong>Αφαιρέθηκαν συνημμένα μέλους</strong><br>» %s',	
+	'LOG_ATTACHMENTS_DELETED'	=> '<strong>Αφαιρέθηκαν συνημμένα μέλους</strong><br />» %s',
 
 	'LOG_ATTACH_EXT_ADD'		=> '<strong>Προστέθηκε ή επεξεργάστηκε επέκταση συνημμένου</strong><br />» %s',
 	'LOG_ATTACH_EXT_DEL'		=> '<strong>Αφαιρέθηκε επέκταση συνημμένου</strong><br />» %s',
