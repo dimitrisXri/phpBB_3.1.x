@@ -66,7 +66,7 @@ $lang = array_merge($lang, array(
 
 	'ACP_CAT_CUSTOMISE'			=> 'Προσαρμογές',
 	'ACP_CAT_DATABASE'			=> 'Βάση δεδομένων',
-	'ACP_CAT_DOT_MODS'			=> '.MODs',
+	'ACP_CAT_DOT_MODS'			=> 'Επεκτάσεις',
 	'ACP_CAT_FORUMS'			=> 'Δημόσιες συζητήσεις',
 	'ACP_CAT_GENERAL'			=> 'Γενικά',
 	'ACP_CAT_MAINTENANCE'		=> 'Συντήρηση',
