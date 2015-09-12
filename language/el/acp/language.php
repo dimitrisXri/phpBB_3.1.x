@@ -76,4 +76,6 @@ $lang = array_merge($lang, array(
 	'THOSE_MISSING_LANG_VARIABLES'		=> 'Οι ακόλουθες μεταβλητές γλώσσας λείπουν από το “%s” πακέτο γλώσσας',
 
 	'UNINSTALLED_LANGUAGE_PACKS'	=> 'Μη εγκατεστημένα πακέτα γλώσσας',
+	
+	'BROWSE_LANGUAGE_PACKS_DATABASE'	=> 'Περιήγηση στη βάση δεδομένων γλωσσών',
 ));

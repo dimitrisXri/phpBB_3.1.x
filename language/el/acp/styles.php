@@ -86,4 +86,6 @@ $lang = array_merge($lang, array(
 	'STYLE_USED_BY'				=> 'Χρησιμοποιείται από (συμπεριλαμβανομένων των robots)',
 
 	'UNINSTALL_DEFAULT'		=> 'Δεν μπορείτε να καταργήσετε το προεπιλεγμένο στυλ.',
+	
+	'BROWSE_STYLES_DATABASE'	=> 'Περιήγηση στη βάση στύλ',
 ));
