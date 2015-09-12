@@ -71,6 +71,12 @@ $lang = array_merge($lang, array(
 	'EXTENSION_NAME'			=> 'Επέκτασης όνομα',
 	'EXTENSION_ACTIONS'		=> 'Ενέργειες',
 	'EXTENSION_OPTIONS'		=> 'Επιλογές',
+	'EXTENSION_INSTALL_HEADLINE'=> 'Εγκατάσταση μιας επέκτασης',
+	'EXTENSION_INSTALL_EXPLAIN'	=> '<ol>
+			<li>Μεταφορτώστε μια επέκταση από την Βάση επεκτάσεων του phpBB</li>
+			<li>Αποσυμπιέστε την επέκταση και φορτώστε (upload) την στον φάκελο <samp>ext/</samp> του συστήματός σας</li>
+			<li>Ενεργοποιήστε αυτή την επέκταση, εδώ στη διαχείριση επεκτάσεων</li>
+		</ol>',
 	'EXTENSION_UPDATE_HEADLINE'	=> 'Αναβάθμιση επέκτασης',
 	'EXTENSION_UPDATE_EXPLAIN'	=> '<ol>
 			<li>Απενεργοποίηση επέκτασης</li>
@@ -121,6 +127,8 @@ $lang = array_merge($lang, array(
 	'VERSIONCHECK_FORCE_UPDATE_ALL'		=> 'Επανέλεγχος όλων των εκδόσεων',
 	'FORCE_UNSTABLE'					=> 'Πάντα έλεγχος για ασταθείς εκδόσεις',
 	'EXTENSIONS_VERSION_CHECK_SETTINGS'	=> 'Ρυθμίσεις ελέγχου έκδοσης',
+	
+	'BROWSE_EXTENSIONS_DATABASE'		=> 'Περιήγηση στη βάση δεδομένων επεκτάσεων',
 
 	'META_FIELD_NOT_SET'	=> 'Απαιτούμενο meta πεδίο %s δεν έχει οριστεί.',
 	'META_FIELD_INVALID'	=> 'Το πεδίο meta %s είναι άκυρο.',
