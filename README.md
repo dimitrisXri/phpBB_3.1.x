@@ -2,7 +2,7 @@
 Greek language for phpBB 3.1.x
 
 
-Ελληνικά αρχεία γλώσσας για phpBB 3.1.6
+Ελληνικά αρχεία γλώσσας για phpBB 3.1.7
 --------------------------------------
 
 ### Ελληνική μετάφραση από την ομάδα του phpbbgr.com
@@ -18,11 +18,12 @@ https://github.com/tzampatzis/phpBB_3.1.x/blob/master/language/el/AUTHORS.md
 
 #### Κατάσταση: 24/12/2015
 ------
+* Δεν υπάρχουν αλλαγές από την 3.1.7-RC1 στην 3.1.7
 * Προετοιμασία αλλαγών για 3.1.7-RC1
 * Διορθώσεις στο σώμα των παρακάτω αρχείων για αποφυγή error στην εγκατάσταση της ελληνικής γλώσσας:
-** acp/styles.php
-** acp/extensions.php
-** acp/language.php
+* 	acp/styles.php
+* 	acp/extensions.php
+* 	acp/language.php
 * Διόρθωση εκ παραδρομής παράλειψης πέντε γραμμών στο αρχείο acp/extensions.php
 * Διόρθωση AUTHORS.md
 * Διόρθωση iso.txt
