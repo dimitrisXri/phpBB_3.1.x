@@ -73,15 +73,9 @@ $lang = array_merge($lang, array(
 	'EXTENSION_OPTIONS'		=> 'Επιλογές',
 	'EXTENSION_INSTALL_HEADLINE'=> 'Εγκατάσταση μιας επέκτασης',
 	'EXTENSION_INSTALL_EXPLAIN'	=> '<ol>
-<<<<<<< HEAD
-			<li>Μεταφορτώστε μια επέκταση από την Βάση επεκτάσεων του phpBB</li>
-			<li>Αποσυμπιέστε την επέκταση και φορτώστε (upload) την στον φάκελο <samp>ext/</samp> του συστήματός σας</li>
-			<li>Ενεργοποιήστε αυτή την επέκταση, εδώ στη διαχείριση επεκτάσεων</li>
-=======
 			<li>Μεταφορτώστε μια επέκταση από τη βάση επεκτάσεων του phpBB</li>
 			<li>Αποσυμπιέστε την επέκταση και φορτώστε (upload) την στον φάκελο <samp>ext/</samp> του συστήματός σας</li>
 			<li>Ενεργοποιήστε αυτήν την επέκταση, εδώ στη διαχείριση επεκτάσεων</li>
->>>>>>> refs/remotes/dimitrisXri/master
 		</ol>',
 	'EXTENSION_UPDATE_HEADLINE'	=> 'Αναβάθμιση επέκτασης',
 	'EXTENSION_UPDATE_EXPLAIN'	=> '<ol>

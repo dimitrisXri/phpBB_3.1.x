@@ -77,9 +77,5 @@ $lang = array_merge($lang, array(
 
 	'UNINSTALLED_LANGUAGE_PACKS'	=> 'Μη εγκατεστημένα πακέτα γλώσσας',
 	
-<<<<<<< HEAD
-	'BROWSE_LANGUAGE_PACKS_DATABASE'	=> 'Περιήγηση στη βάση δεδομένων γλωσσών',
-=======
 	'BROWSE_LANGUAGE_PACKS_DATABASE'	=> 'Περιήγηση στη βάση των πακέτων γλώσσας',
->>>>>>> refs/remotes/dimitrisXri/master
 ));
