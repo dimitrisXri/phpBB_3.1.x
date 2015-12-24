@@ -87,5 +87,9 @@ $lang = array_merge($lang, array(
 
 	'UNINSTALL_DEFAULT'		=> 'Δεν μπορείτε να καταργήσετε το προεπιλεγμένο στυλ.',
 	
+<<<<<<< HEAD
 	'BROWSE_STYLES_DATABASE'	=> 'Περιήγηση στη βάση στύλ',
+=======
+	'BROWSE_STYLES_DATABASE'	=> 'Περιήγηση στη βάση θεμάτων',
+>>>>>>> refs/remotes/dimitrisXri/master
 ));
