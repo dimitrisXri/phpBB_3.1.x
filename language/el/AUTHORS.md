@@ -6,6 +6,8 @@ http://phpbbgr.com/team/
 
 ### Μεταφραστής
 * dimitris (Δημήτρης Χριστόπουλος)
+* tzampatzis (Παναγιώτης)
 
 ### Διορθώσεις
 * dimitris (Δημήτρης Χριστόπουλος)
+* tzampatzis (Παναγιώτης)
