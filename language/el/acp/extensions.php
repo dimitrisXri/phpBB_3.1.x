@@ -127,6 +127,8 @@ $lang = array_merge($lang, array(
 	'VERSIONCHECK_FORCE_UPDATE_ALL'		=> 'Επανέλεγχος όλων των εκδόσεων',
 	'FORCE_UNSTABLE'					=> 'Πάντα έλεγχος για ασταθείς εκδόσεις',
 	'EXTENSIONS_VERSION_CHECK_SETTINGS'	=> 'Ρυθμίσεις ελέγχου έκδοσης',
+	
+	'BROWSE_EXTENSIONS_DATABASE'		=> 'Περιήγηση στη βάση δεδομένων επεκτάσεων',
 
 	'BROWSE_EXTENSIONS_DATABASE'		=> 'Περιήγηση στη βάση δεδομένων επεκτάσεων',
 
