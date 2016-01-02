@@ -14,7 +14,7 @@ Greek language for phpBB 3.1.x
  
 Δείτε το αρχείο AUTHORS.md για λεπτομέρειες:
 
-https://github.com/tzampatzis/phpBB_3.1.x/blob/master/language/el/AUTHORS.md
+https://github.com/dimitrisXri/phpBB_3.1.x/blob/master/language/el/AUTHORS.md
 
 #### Κατάσταση: 24/12/2015
 ------
